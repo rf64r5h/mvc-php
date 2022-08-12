@@ -1,0 +1,21 @@
+body {
+    background-color: azure;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+
+input{
+    display: block;
+}
+
+
+#button {
+    margin: 5px;
+    padding: 6px;
+    color: white;
+    background-color: green;
+}

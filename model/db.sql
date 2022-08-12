@@ -1,0 +1,9 @@
+CREATE DATABASE pweb_mvc;
+
+
+CREATE TABLE users(
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    user VARCHAR(25) UNIQUE NOT NULL,
+    password VARCHAR(20) NOT NULL
+
+);
